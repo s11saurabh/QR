@@ -1,4 +1,6 @@
 # QR Recognition and AR Model Load, QR Maker Web Application
+### Deployed link : https://s11saurabh-git-main-saurabhs-projects-d236dc8e.vercel.app/
+<img width="1083" alt="image" src="https://github.com/user-attachments/assets/273ce402-82d8-4996-8aff-9e5d3a46cf2d" />
 
 ## Project Overview
 This web application allows users to recognize QR codes and load 3D models in glTF format (.glb). It features functionalities for generating QR codes, recognizing them via a mobile web interface, and rendering interactive 3D models with animation in augmented reality (AR).
